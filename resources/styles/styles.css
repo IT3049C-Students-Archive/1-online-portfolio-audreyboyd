@@ -2,6 +2,11 @@ title{
  font-family: fantasy;
     color: mediumvioletred;
 }
+img{
+    width: 200px;
+    border-radius: 8px;
+    border: 8px solid cornflowerblue;
+}
 h1{
     font-family: fantasy;
     color: mediumvioletred;
@@ -14,3 +19,4 @@ h1{
     color: black;
     font-family: Arial;
 }
+
