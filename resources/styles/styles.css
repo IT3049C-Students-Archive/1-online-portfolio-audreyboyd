@@ -1,0 +1,16 @@
+title{
+ font-family: fantasy;
+    color: mediumvioletred;
+}
+h1{
+    font-family: fantasy;
+    color: mediumvioletred;
+}
+.section h2{
+    color: mediumvioletred;
+    font-family: fantasy;
+}
+.section body{
+    color: black;
+    font-family: Arial;
+}
