@@ -14,4 +14,6 @@ Instructions to this assignment can be found [here](https://it3049c.github.io/Ma
 
 ### How long it took me to finish this?
 
+## This assignment took me about 2 and a half hours to complete. I spent a little too much time working on CSS positioning. Overall It wasn't too difficult for me to follow along.
+
 -----------------------
