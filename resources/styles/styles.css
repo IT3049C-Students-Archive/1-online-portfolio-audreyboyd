@@ -23,7 +23,7 @@ h1{
 #personalBackground, #experience, #achievements{
     text-align: center;
     }
-ul{
+ul, ol{
     display: inline-block;
     text-align: left;
 }
